@@ -1,6 +1,6 @@
 # Farm-Organics
 Now a days pesticides usage have been increased drastically and can't find natural and organic food. It's not because our framers are very happy to grow farms using pesticides, it's because of lack of knowledge in organic farming. My project titled "Farm Organics" is designed to help farmers to farm organically by providing services such as Grain marketing, Risk Management, Farm supplies, Grain Contracts etc., with the help expert farmers. We provide training session to farmers and educate them to farm organically. Along with that My website also contains an AI Chat Bot which clarify common and FAQ's of people or Farmers. To develop my project I have used the Visual Studio Code IDE and Git Version Control System. I have used HTML5, CSS, Java Script to develop user interface of my website. I have also used Azure Cloud Technologies to complete my project.
- ## Website Link [Farm Organics](https://sivanikuchi30.github.io/Farm-Organics/)
+## Website Link [Farm Organics](https://sivanikuchi30.github.io/Farm-Organics/)
 FRT Project
 ## Deployement Procedure:
 ### First one: Static webapps
@@ -58,6 +58,6 @@ I have deployed my project in Static web apps as follow <br />
 
   ## Farmer Chatbot:
   ![image](https://user-images.githubusercontent.com/121791272/210218511-faf5a891-2d58-47c3-94a2-570b5f7cfe11.png)
-  
+ - - - -
  ![image](https://user-images.githubusercontent.com/121791272/210218645-e37f829b-98d6-45af-8ca4-a29fedbee047.png)
 
