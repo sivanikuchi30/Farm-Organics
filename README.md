@@ -15,18 +15,19 @@ I have deployed my project in Static web apps as follow <br />
   | Setting  | Value |
   | ------------- | ------------- |
   | Azure subscription	| Azure for Students |
-  | Resource Group	| Agricalfarm_group | 
-  | Name	| Agricalfarm | 
+  | Resource Group	| Farmorgnics | 
+  | Name	| FarmOrganics | 
   | Plan type | Free | 
   | source | Github | 
-  | GitHub account| sivahari28 |
+  | GitHub account| sivanikuchi30 |
   
   and added this git repository by linking my git account.<br />
   7) click review+create<br />
   8) click create
   <br />
   #### Azure Screenshot:
-  ![static webapps](https://user-images.githubusercontent.com/115481580/210054238-5bac69b3-6896-4bae-901f-afaf2a8ce13d.png)
+ ![staticWebapps](https://user-images.githubusercontent.com/121791272/210220579-36514ee8-d537-40f9-bfdd-3e7318a5572f.png)
+
 
  ### Second one: Bot Service
  #### Azure Bot 
@@ -52,7 +53,7 @@ I have deployed my project in Static web apps as follow <br />
 
 
   ## Contact Page:
-![image](https://user-images.githubusercontent.com/121791272/210218922-3f028619-8d89-4f2d-bf97-faf86bd35831.png)
+![image](https://user-images.githubusercontent.com/121791272/210220020-9f74c275-b128-440b-b0d8-5be873ccd749.png)
 
 
   ## Farmer Chatbot:
