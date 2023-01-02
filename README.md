@@ -44,16 +44,19 @@ I have deployed my project in Static web apps as follow <br />
 
 
   ## About Page:
-  ![image](https://user-images.githubusercontent.com/121791272/210217051-664503c0-03e0-4139-82b9-0c1e790834ed.png)
+![image](https://user-images.githubusercontent.com/121791272/210219892-afde1f30-d4a7-4247-844f-941774b989b4.png)
   
   
   ## Services Page:
-  ![image](https://user-images.githubusercontent.com/121791272/210217228-fd962887-cafe-4131-bdba-59aae8e915c1.png)
+![image](https://user-images.githubusercontent.com/121791272/210219850-3b0034d2-da63-455d-bb16-428fa0fa46bb.png)
 
 
   ## Contact Page:
+![image](https://user-images.githubusercontent.com/121791272/210218922-3f028619-8d89-4f2d-bf97-faf86bd35831.png)
 
 
   ## Farmer Chatbot:
-  ![image](https://user-images.githubusercontent.com/115481580/210005557-91b23579-8d6d-4888-a4b2-0f036d0983be.png)
-  ![image](https://user-images.githubusercontent.com/115481580/210005643-b6468e75-1370-41df-87dc-6173c12f3896.png)
+  ![image](https://user-images.githubusercontent.com/121791272/210218511-faf5a891-2d58-47c3-94a2-570b5f7cfe11.png)
+  
+ ![image](https://user-images.githubusercontent.com/121791272/210218645-e37f829b-98d6-45af-8ca4-a29fedbee047.png)
+
