@@ -31,13 +31,13 @@ I have deployed my project in Static web apps as follow <br />
 
  ### Second one: Bot Service
  #### Azure Bot 
- ![chatbot](https://user-images.githubusercontent.com/115481580/210054268-4c9621d0-18bf-46ce-8c85-9b98e479a6fd.png)
+ ![azurebot](https://user-images.githubusercontent.com/121791272/210221434-7a2ef939-c589-4e34-9a3b-b877b34424b2.png)
 
  ### Third one: Azure Cognitive services [Language studio]
-  Language Studio > Custom question answering > AgricalFarmChatbot
- ![Cognitive services](https://user-images.githubusercontent.com/115481580/210054607-3e7d5b22-9f75-418d-8ecb-425d654c3a27.png)
+  Language Studio > Custom question answering > Chatbot
+  ![Cognitive services](https://user-images.githubusercontent.com/121791272/210221808-1bc5febc-d49e-40f8-b338-b1e618a4b1f8.png)
 
- ![chatbot language](https://user-images.githubusercontent.com/115481580/210054299-7589af88-1d73-4ad9-ba3d-b001ef28a28a.png)
+ ![chatbot language](https://user-images.githubusercontent.com/121791272/210221670-5da4e3d5-4b23-474b-9f27-ab0eb84b1ab2.png)
 
   
   ## Home Page:
